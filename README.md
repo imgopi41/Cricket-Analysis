@@ -64,4 +64,8 @@ IDE used: **Jupyter Notebook**
 
 ![Cricket Analysis 2](https://github.com/imgopi41/Cricket-Analysis/assets/99798157/cf1ab159-8ccb-4e7b-94bb-9b4d01c65750)
 
+**VII. Applications & Future enhancements:**
+
+This is an Interactive reports on Cricket Analysis. This Project is absolutely for Beginners and Intermediate Learners. The one who is cures to be part of Data Analysis this is 
+absolutely for those who are likely want to learn "Python for Data Analysis". I have mainly Focused on Visualization tools by using Exploratory Data Analysis (EDA) in this project.
 
