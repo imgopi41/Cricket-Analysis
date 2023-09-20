@@ -10,5 +10,21 @@ IDE used: **Jupyter Notebook**
 
 **III. Objective**
 
-    1. Implement Basic Analysis using Python Like: 
-            
+    
+** I. Implement a Basic Analysis using Python Pandas:**
+       
+1. Check Shape Of the DataFrame
+       
+2. Check Top Rows in the DataFrame
+       
+3. Check for data types and null count in the dataframe
+       
+4. Check for null values in the dataframe
+       
+5. Change column name
+       
+6. Show the count elements in the DataFrame
+       
+7. Display the Data Types in the DataFrmae
+       
+       8. Check for the Duplicates 
