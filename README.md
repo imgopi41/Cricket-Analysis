@@ -44,3 +44,15 @@ IDE used: **Jupyter Notebook**
 6. Check for number Purple Cap's Secured by each Team by using Bar Chart
 
 7. Check for number of Trophies Secured by Each Captain. Show it in Bar Graph
+
+IV. Things That I Worked On:
+
+1. Python Pandas & Numpy for Analyzing the Data in the given DataFrame 
+
+2. Seaborn & Matplotlib for Visualizing the Data
+
+Demo : ![Cricket Analysis 1](https://github.com/imgopi41/Cricket-Analysis/assets/99798157/954444b9-d4e3-4b06-a5b5-78739855067c)
+
+![Cricket Analysis 2](https://github.com/imgopi41/Cricket-Analysis/assets/99798157/cf1ab159-8ccb-4e7b-94bb-9b4d01c65750)
+
+
