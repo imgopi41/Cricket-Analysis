@@ -11,7 +11,7 @@ IDE used: **Jupyter Notebook**
 **III. Objective**
 
     
-** I. Implement a Basic Analysis using Python Pandas:**
+**I. Implement a Basic Analysis using Python Pandas:**
        
 1. Check Shape Of the DataFrame
        
@@ -27,4 +27,4 @@ IDE used: **Jupyter Notebook**
        
 7. Display the Data Types in the DataFrmae
        
-       8. Check for the Duplicates 
+8. Check for the Duplicates 
