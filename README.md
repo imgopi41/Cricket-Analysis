@@ -27,4 +27,20 @@ IDE used: **Jupyter Notebook**
        
 7. Display the Data Types in the DataFrmae
        
-8. Check for the Duplicates 
+8. Check for the Duplicates
+
+   **II. Exploratory Data Analysis (EDA)**
+
+1. Show the number Trophies collected by all the Teams by using Countplot & Bar Chart
+
+2. Display the Number of Trophies collected by Each Team respectively starting from (2008 to 2023) using Bar Chart
+
+3. Display Each Team Presence in the Finals by using Bar Chart
+
+4. Display Fair Play Awards Collected by Each Team by using Bar Chart
+
+5. Display Number of Orange Cap's Collected by Every Team by using Bar Chart
+
+6. Check for number Purple Cap's Secured by each Team by using Bar Chart
+
+7. Check for number of Trophies Secured by Each Captain. Show it in Bar Graph
