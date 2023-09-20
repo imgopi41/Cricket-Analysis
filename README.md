@@ -28,8 +28,8 @@ IDE used: **Jupyter Notebook**
 7. Display the Data Types in the DataFrmae
        
 8. Check for the Duplicates
-
-   **II. Exploratory Data Analysis (EDA)**
+   
+**II. Exploratory Data Analysis (EDA)**
 
 1. Show the number Trophies collected by all the Teams by using Countplot & Bar Chart
 
